@@ -1,0 +1,50 @@
+{
+    "id": {
+        "0": 0,
+        "1": 1,
+        "2": 2,
+        "3": 3,
+        "4": 4,
+        "5": 5,
+        "6": 6,
+        "7": 7,
+        "8": 8,
+        "9": 9
+    },
+    "results": {
+        "0": "https://www.britannica.com/place/Russia",
+        "1": "https://en.wikipedia.org/wiki/Russia",
+        "2": "https://www.aljazeera.com/where/russia",
+        "3": "https://thehill.com/policy/defense/3909195-why-putin-is-casting-the-ukraine-war-as-a-fight-for-russias-survival/",
+        "4": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-03-21-23/index.html",
+        "5": "https://www.cnn.com/world/europe/russia",
+        "6": "https://www.reuters.com/world/europe/russia-will-put-its-enemies-such-united-states-their-place-medvedev-says-2022-03-17/",
+        "7": "https://www.usatoday.com/story/news/world/2023/03/20/ukraine-russia-war-live-updates-china-xi-visits-moscow-putin/11507485002/",
+        "8": "https://www.bbc.com/news/topics/ce1qrvlegnyt",
+        "9": "https://www.worldatlas.com/maps/russia"
+    },
+    "work": {
+        "0": "+",
+        "1": "+",
+        "2": "+",
+        "3": "+",
+        "4": "+",
+        "5": "+",
+        "6": "+",
+        "7": "+",
+        "8": "-",
+        "9": "+"
+    },
+    "nums": {
+        "0": 0,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0
+    }
+}
